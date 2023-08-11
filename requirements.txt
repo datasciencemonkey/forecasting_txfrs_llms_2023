@@ -1,0 +1,11 @@
+neuralforecast
+torchvision
+torchaudio
+black
+rich
+duckdb
+pyspark
+pyspark-ai
+statsforecast
+plotly-express
+gradio
